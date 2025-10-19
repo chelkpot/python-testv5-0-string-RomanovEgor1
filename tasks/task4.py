@@ -2,7 +2,8 @@
 
 def solve():
 # Ниже пишите решение задачи
-    
+    word=input()
+    print(word*3)
     
 
 
